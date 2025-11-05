@@ -4,7 +4,7 @@ A Machine-to-Machine (M2M) communication system implementing Industrial IoT (IIo
 
 ## 🎥 Demonstration Video
 
-<video width="800" height="450" src="https://github.com/abhi5hek001/Digital-Twin-Assignment/raw/main/group5.webm" autoplay loop muted playsinline></video>
+[Demonstration of output](https://github.com/user-attachments/assets/5a77f7b5-0442-43d5-9cda-e92b0de3e7e4)
 
 ## 🎯 Project Overview
 
