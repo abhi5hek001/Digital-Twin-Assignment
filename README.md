@@ -2,7 +2,9 @@
 
 A Machine-to-Machine (M2M) communication system implementing Industrial IoT (IIoT) standards for predictive power analytics using OPC UA protocol, Python clients, and Arduino hardware.
 
-<video src="https://github.com/abhi5hek001/Digital-Twin-Assignment/blob/main/group5.webm" autoplay loop muted playsinline></video>
+## 🎥 Demonstration Video
+
+<video width="800" height="450" src="https://github.com/abhi5hek001/Digital-Twin-Assignment/raw/main/group5.webm" autoplay loop muted playsinline></video>
 
 ## 🎯 Project Overview
 
