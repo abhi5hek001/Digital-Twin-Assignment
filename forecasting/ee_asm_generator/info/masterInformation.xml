@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MF0 version="1.1" packageUris="http://schema.mathworks.com/mf0/SlCache/19700101">
+  <slcache.MasterInformation type="slcache.MasterInformation" uuid="1633a83d-4075-4da2-ad29-daf2dd2f58cd">
+    <entries type="slcache.ReleaseMap" uuid="788ae86a-15c4-4402-8938-d5f021cb4e19">
+      <platforms>all</platforms>
+      <release>R2022b</release>
+    </entries>
+    <modelName>ee_asm_generator</modelName>
+  </slcache.MasterInformation>
+</MF0>

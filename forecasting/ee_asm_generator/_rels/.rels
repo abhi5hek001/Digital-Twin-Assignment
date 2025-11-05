@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+  <Relationship Id="rId1" Target="R2022b/all/varcache/VarCache_R2022b_all/checksumOfCache.mat" Type="http://schemas.mathworks.com/simulink/simulinkcache/2017/relationships/VarCache_R2022b_all"/>
+  <Relationship Id="rId10" Target="metadata/coreProperties.xml" Type="http://schemas.openxmlformats.org/package/2006/relationships/metadata/core-properties"/>
+  <Relationship Id="rId2" Target="R2022b/all/varcache/VarCache_R2022b_all/varInfo.mat" Type="http://schemas.mathworks.com/simulink/simulinkcache/2017/relationships/VarCache_R2022b_all"/>
+  <Relationship Id="rId3" Target="info/masterInformation.xml" Type="http://schemas.mathworks.com/simulink/simulinkcache/2016/relationships/masterInformation"/>
+  <Relationship Id="rId4" Target="R2022b/all/info/extraInformation.xml" Type="http://schemas.mathworks.com/simulink/simulinkcache/2016/relationships/extraInformation_R2022b_all"/>
+  <Relationship Id="rId5" Target="info/currentFolderBrowser.xml" Type="http://schemas.mathworks.com/simulink/simulinkcache/2016/relationships/currentFolderBrowser"/>
+  <Relationship Id="rId6" Target="info/partSignatures.xml" Type="http://schemas.mathworks.com/simulink/simulinkcache/2012/relationships/partSignatures"/>
+  <Relationship Id="rId7" Target="metadata/mwcoreProperties.xml" Type="http://schemas.mathworks.com/package/2012/relationships/coreProperties"/>
+  <Relationship Id="rId8" Target="metadata/mwcorePropertiesExtension.xml" Type="http://schemas.mathworks.com/package/2014/relationships/corePropertiesExtension"/>
+  <Relationship Id="rId9" Target="metadata/mwcorePropertiesReleaseInfo.xml" Type="http://schemas.mathworks.com/package/2019/relationships/corePropertiesReleaseInfo"/>
+</Relationships>
